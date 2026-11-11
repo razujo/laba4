@@ -3,9 +3,7 @@ package ru.kostikov.lab4;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-/**
- * Задание 6. SMS-сообщение: номер телефона и текст.
- */
+// Задание 6. SMS-сообщение: номер телефона и текст.
 @Data
 @AllArgsConstructor
 public class Sms {

@@ -6,10 +6,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * Посетитель библиотеки. Имена полей совпадают с ключами в books.json,
- * поэтому Gson заполняет их автоматически.
- */
+// Посетитель библиотеки. Имена полей совпадают с ключами в books.json,
+// поэтому Gson заполняет их автоматически.
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
